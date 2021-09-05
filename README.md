@@ -1,2 +1,1 @@
-# learning-react
-Created with CodeSandbox
+# Learning React
